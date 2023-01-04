@@ -1,0 +1,46 @@
+
+body{
+    background-color: rgb(0, 100, 150);
+    font: normal 15pt Arial;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+section #form{
+    text-align: center;
+}
+section input{
+    width: 150px;
+    margin: 5px;
+}
+section p{
+    margin: 5px;
+    text-align: center;
+}
+
+#res{
+    margin: 20px;
+}
+
+#btncontar{
+    font-size: 20px;
+    width: 300px;
+}
+
+
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
